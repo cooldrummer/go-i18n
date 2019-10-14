@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 
 	"github.com/BurntSushi/toml"
-	"github.com/mattermost/go-i18n/v2/internal"
-	"github.com/mattermost/go-i18n/v2/internal/plural"
+	"github.com/verdonz/go-i18n/v2/internal"
+	"github.com/verdonz/go-i18n/v2/internal/plural"
 	"golang.org/x/text/language"
 	yaml "gopkg.in/yaml.v2"
 )
